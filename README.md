@@ -6,6 +6,7 @@ I design and test deterministic control structures around stochastic AI systems,
 
 ## Selected work
 
+- [TEXporT](https://github.com/nhartman000/TEXporT) — chat capture, passage markers, notes, and handoff exports through the Linux app and [browser extension](https://github.com/nhartman000/Texport-browser-extension).
 - [MG8 Engine](https://github.com/nhartman000/mg8-engine) - runnable Python reference implementation for loading MG8 resources and producing event-level QSON traces.
 - [MGate Keeper](https://github.com/nhartman000/mgate-keeper) - reproducibility experiment that applies structured gate requirements and state context to model requests.
 - [NYCH](https://github.com/nhartman000/nych) - inspectable Python substrate for symbolic glyphs, locality/address traces, lexicon lookup, and visualization.
